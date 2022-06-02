@@ -1,22 +1,23 @@
 {
-  "carname":Astra,
-  "carbrand":Opel
-  "seats":[{ "seat1":{
-                "material":"leather",
-                "colour":["white"]
-                 },{
-                 "seat2":{
-                "material":"leather",
-                "colour":["white"]
-                 },{
-                 "seat3":{
-                "material":"leather",
-                "colour":["white"]
-                 },{
-                 "seat4":{
-                "material":"leather",
-                "colour":["white"]
-                 }
-                 }]
-  "enginecapacity":1600
+  "carname": "Astra",
+  "carbrand": "Opel",
+  "seats": [
+    {
+      "material": "leather",
+      "colour": "white"
+    },
+    {
+      "material": "leather",
+      "colour": "white"
+    },
+    {
+      "material": "leather",
+      "colour": "white"
+    },
+    {
+      "material": "leather",
+      "colour": "white"
+    }
+  ],
+  "enginecapacity": 1600
 }
